@@ -1,0 +1,4 @@
+-include libraries/OscReceiver/build/Makefile.link
+-include libraries/OscSender/build/Makefile.link
+-include libraries/UdpClient/build/Makefile.link
+-include libraries/UdpServer/build/Makefile.link
